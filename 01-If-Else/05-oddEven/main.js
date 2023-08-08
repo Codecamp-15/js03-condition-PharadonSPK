@@ -1,4 +1,4 @@
-input = +prompt ("KUB")
+input = +prompt ("")
 
 if (input % 2 == 0)  {
     alert('Even number');

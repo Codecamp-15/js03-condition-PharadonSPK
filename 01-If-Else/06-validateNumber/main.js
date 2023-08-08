@@ -1,5 +1,5 @@
-input1 = +prompt ("KUB")
-input2 = +prompt ("Cup")
+input1 = +prompt ("")
+input2 = +prompt ("")
 
 // if (input == 2 == 2)  {
 //     alert('Even number');
